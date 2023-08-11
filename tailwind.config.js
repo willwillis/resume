@@ -27,6 +27,14 @@ module.exports = {
           DEFAULT: "hsl(var(--secondary))",
           foreground: "hsl(var(--secondary-foreground))",
         },
+        skill10: {
+          DEFAULT: "hsl(var(--skill10))",
+          foreground: "hsl(var(--skill10-foreground))",
+        },
+        skill09: {
+          DEFAULT: "hsl(var(--skill09))",
+          foreground: "hsl(var(--skill09-foreground))",
+        },
         destructive: {
           DEFAULT: "hsl(var(--destructive))",
           foreground: "hsl(var(--destructive-foreground))",

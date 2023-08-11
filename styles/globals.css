@@ -34,6 +34,12 @@
     --ring: 215 20.2% 65.1%;
 
     --radius: 0.5rem;
+
+    --skill10: 0 100% 50%;
+    --skill10-foreground: 210 40% 98%;
+
+    --skill09: 0 100% 50%;
+    --skill09-foreground: 210 20% 98%;
   }
 
   .dark {
